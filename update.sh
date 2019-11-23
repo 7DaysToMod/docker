@@ -1,0 +1,1 @@
+sudo docker build -t 7dtd-a16-1-1 .
